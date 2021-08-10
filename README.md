@@ -1,11 +1,9 @@
 ### Olá! Eu sou o Israel Gomes 👋
-
  <div>
   <a href="https://github.com/israelgms">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=israelgms&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelgms&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=israelgms&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelgms&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  
 <div style="display: inline_block"><br>
     <img align="center" alt="israelgms-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="israelgms-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -18,7 +16,6 @@
   <img align="center" alt="israelgms-GitLab" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg">
   <img align="center" alt="israelgms-WordPress" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain.svg">
   <img align="center" alt="israelgms-WooCommerce" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/woocommerce/woocommerce-original.svg">
-  
 </div>
   
   ##
