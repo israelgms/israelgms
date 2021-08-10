@@ -1,4 +1,10 @@
 ### Olá! Eu sou o Israel Gomes 👋
+
+ <div>
+  <a href="https://github.com/israelgms">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=israelgms&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=israelgms&layout=compact&langs_count=7&theme=highcontrast"/>
+</div>
   
 <div style="display: inline_block"><br>
     <img align="center" alt="israelgms-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
