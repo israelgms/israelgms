@@ -1,4 +1,4 @@
-## Olá!! Meu nome é Israel, seja muito Bem vindo(a) ao meu humilde github. 
+## Olá!! Meu nome é Israel. Seja muito Bem vindo(a) ao meu humilde github. 
  <div>
   <a href="https://github.com/israelgms">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=israelgms&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
