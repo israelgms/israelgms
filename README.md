@@ -9,6 +9,7 @@
   <img align="center" alt="israelgms-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="israelgms-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="israelgms-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+ <img align="center" alt="israelgms-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg"> 
   <img align="center" alt="israelgms-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="israelgms-Java" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="israelgms-PHP" height="70" width="50" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg">
